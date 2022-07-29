@@ -1,4 +1,4 @@
-jspspemu
+jspspemu 
 ========
 
 [![CI](https://github.com/jspspemu/jspspemu/actions/workflows/test.yml/badge.svg)](https://github.com/jspspemu/jspspemu/actions/workflows/test.yml)
